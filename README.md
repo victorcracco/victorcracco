@@ -1,8 +1,7 @@
-### Hi there 👋
-![victorcracco](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=victorcracco&logoColor=white&link=instagram.com.br/victorcracco)
-![enter image description here](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=victorcracco&logoColor=white)
 
-
+![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/victorcracco/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorcracco/)](https://www.linkedin.com/in/victorcracco/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-b44633?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorcracco@gmail.com)](mailto:victorcracco@gmail.com)
 
 
 
