@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 ![victorcracco@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorcracco@gmail.com)
-
+![victorcracco](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=instagram.com.br/victorcracco)
 <!--
 **victorcracco/victorcracco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
